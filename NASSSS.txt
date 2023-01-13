@@ -1,0 +1,19 @@
+import requests
+
+print(requests.__version__)
+response = responses.get("https://google.com")
+print(response.txt)
+^q5
+
+
+q2) 2.28.1
+q3) 2.28.1
+q4) virtul environment fetches the latest version of the libraries, in this case req
+request, so if i already had an older version of requests on my machine
+and ran the script on the venv, it would pull the latest version of the
+library, not the one on my machine
+
+
+diff? get req other is a post request
+
+
